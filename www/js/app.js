@@ -38,4 +38,8 @@ angular.module('starter', ['ionic', 'starter.services'])
         });
       };
 
+      $scope.data.vibrate = function() {
+        navigator.vibrate(1000);
+      };
+
     });
