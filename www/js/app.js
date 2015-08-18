@@ -22,7 +22,9 @@ angular.module('starter', ['ionic', 'starter.services'])
 
     .controller('MainCtrl', function($scope, Camera) {
 
-      $scope.getPhoto = function() {
+      $scope.data = {};
+
+      $scope.data.getPhoto = function() {
         Camera.getPicture().then(function(imageURI) {
           console.log(imageURI);
           $scope.lastPhoto = imageURI;
@@ -36,4 +38,4 @@ angular.module('starter', ['ionic', 'starter.services'])
         });
       };
 
-    })
+    });
