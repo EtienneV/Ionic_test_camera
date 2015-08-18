@@ -29,7 +29,7 @@
   </ion-header-bar>
   <ion-content padding="true">
 
-    <button onclick="data.vibrate()" class="button button-block button-primary">Take Photo</button>
+    <button onclick="navigator.vibrate(1000);" class="button button-block button-primary">Take Photo</button>
     <img ng-src="{{lastPhoto}}" style="max-width: 100%">
 
   </ion-content>

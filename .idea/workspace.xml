@@ -30,7 +30,7 @@
             <entry file="file://$PROJECT_DIR$/www/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.5642398">
-                  <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+                  <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
                   <folding>
                     <element signature="n#style#0;n#img#0;n#ion-content#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -282,7 +282,13 @@
       <option name="project" value="LOCAL" />
       <updated>1439898713473</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="onclick">
+      <created>1439898912134</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1439898912134</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -325,7 +331,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="titre" />
     <MESSAGE value="vibrate" />
-    <option name="LAST_COMMIT_MESSAGE" value="vibrate" />
+    <MESSAGE value="onclick" />
+    <option name="LAST_COMMIT_MESSAGE" value="onclick" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -359,7 +366,7 @@
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5642398">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#img#0;n#ion-content#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
